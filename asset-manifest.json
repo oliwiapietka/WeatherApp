@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.44e268a3.css",
+    "main.js": "/WeatherApp/static/js/main.30e3298b.js",
+    "static/js/787.d62d1c65.chunk.js": "/WeatherApp/static/js/787.d62d1c65.chunk.js",
+    "static/media/mountain_landscape24_generated.jpg": "/WeatherApp/static/media/mountain_landscape24_generated.8c82a29dff45367154d8.jpg",
+    "static/media/mountain_landscape_generated.jpg": "/WeatherApp/static/media/mountain_landscape_generated.3926ac002a85e6b49c6e.jpg",
+    "static/media/mountain-beautiful-landscape-background-design-illustration-free-vector.jpg": "/WeatherApp/static/media/mountain-beautiful-landscape-background-design-illustration-free-vector.37c0cb3b0f1d28ce8c9e.jpg",
+    "index.html": "/WeatherApp/index.html",
+    "main.44e268a3.css.map": "/WeatherApp/static/css/main.44e268a3.css.map",
+    "main.30e3298b.js.map": "/WeatherApp/static/js/main.30e3298b.js.map",
+    "787.d62d1c65.chunk.js.map": "/WeatherApp/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e268a3.css",
+    "static/js/main.30e3298b.js"
+  ]
+}
